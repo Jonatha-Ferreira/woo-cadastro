@@ -1,2 +1,2 @@
 # Woo Cadastro
-Plugin para otimizar pagina de cadastro do WooCommerce 
+Plugin para melhorar e adicionar novos campos a pagina de cadastro do WooCommerce 
